@@ -1,7 +1,7 @@
 # Minimal Viable Blog
 
 This project is an experiment in how little code is required to build a blog.
-It aims to be a single file blog tool.
+It aims to be a single file blog script.
 
 ## Setup
 
@@ -25,6 +25,6 @@ Use the local webserver `php -S localhost:8080` or any other.
 
 ## Misc
 
-Feedback, issues and merge-requrests welcome.
+Questions, feedback, issues and merge-requests are welcome.
 
 ~Sander
