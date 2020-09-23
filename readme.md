@@ -5,7 +5,7 @@ It aims to be a single file blog tool.
 
 ## Setup
 
-Download a copy of this repo. Add content to folders in the repo root they will correspond to URLs (`pages/about-us.md` becomes `/pages/about-us/`).
+Download a copy of this repo. Install the project dependencies using `composer install`. Then, add content to folders in the repo root they will correspond to URLs (`pages/about-us.md` becomes `/pages/about-us/`).
 
 Each page can optionally contain front-matter or metadata in the following format:
 
