@@ -1,0 +1,15 @@
+{
+    "name": "svandragt/mvb",
+    "description": "Minimum Viable Blog",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sander van Dragt",
+            "email": "sander@vandragt.com"
+        }
+    ],
+    "require": {
+        "league/commonmark": "^1"
+    }
+}
