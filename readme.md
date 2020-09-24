@@ -1,7 +1,9 @@
 # Minimal Viable Blog
 
-This project is an experiment in how little code is required to build a blog.
-It aims to be a single file blog script.
+This project was an experiment in how little code is required to build a blog.
+It aimed to be a single file blog script.
+
+_However it turns out it's just reimplementing [Cuttlefish](https://github.com/svandragt/cuttlefish), which you should be using instead._
 
 ## Setup
 
